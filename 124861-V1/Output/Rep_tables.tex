@@ -1,0 +1,214 @@
+\documentclass{article}
+\usepackage{booktabs} % For better-looking tables
+\usepackage{caption} % For captions customization
+\usepackage{multirow} % For multirow cells
+\usepackage{siunitx} % For better alignment of numbers
+\usepackage{amsmath} % For mathematical symbols
+\usepackage{caption}
+
+\captionsetup[table]{labelformat=empty}
+
+
+\begin{document}
+
+% TABLE 1 ----------------------
+
+\begin{table}[htbp]
+\centering
+\caption{Summary Statistics (means)}
+\label{sumstat_wide}
+\begin{tabular}{lccc}
+\hline\hline
+\textbf{Variable} & \textbf{All} & \textbf{Never Switchers} & \textbf{Switchers} \\
+\hline
+Semester calendar & 0.93 & 0.96 & 0.72 \\
+ & (0.25) & (0.2) & (0.45) \\
+Four-year grad rate & 0.36 & 0.37 & 0.29 \\
+ & (0.22) & (0.22) & (0.16) \\
+Four-year women grad rate & 0.41 & 0.42 & 0.34 \\
+ & (0.22) & (0.23) & (0.18) \\
+Four-year men grad rate & 0.31 & 0.32 & 0.23 \\
+ & (0.21) & (0.22) & (0.15) \\
+Four-year URM grad rate & 0.29 & 0.3 & 0.22 \\
+ & (0.2) & (0.21) & (0.14) \\
+Four-year non-URM grad rate & 0.38 & 0.39 & 0.3 \\
+ & (0.22) & (0.23) & (0.17) \\
+Six-year grad rate & 0.59 & 0.59 & 0.55 \\
+ & (0.18) & (0.18) & (0.17) \\
+Six-year women grad rate & 0.62 & 0.62 & 0.58 \\
+ & (0.17) & (0.17) & (0.17) \\
+Six-year men grad rate & 0.55 & 0.56 & 0.51 \\
+ & (0.19) & (0.19) & (0.18) \\
+Six-year URM grad rate & 0.51 & 0.52 & 0.46 \\
+ & (0.19) & (0.19) & (0.17) \\
+Six-year non-URM grad rate & 0.6 & 0.61 & 0.56 \\
+ & (0.18) & (0.18) & (0.17) \\
+Public & 0.46 & 0.43 & 0.72 \\
+ & (0.5) & (0.5) & (0.45) \\
+Full time equivalent faculty & 345.57 & 335.57 & 427.99 \\
+ & (387.21) & (377.15) & (453.74) \\
+Cohort size & 1119.18 & 1084.58 & 1404.44 \\
+ & (1200.57) & (1166.57) & (1419.47) \\
+In-state tuition & 11424.9 & 11903.21 & 7481.92 \\
+ & (9559.07) & (9682.12) & (7379.73) \\
+Total expenditures (\$/million) & 199.95 & 192.61 & 260.45 \\
+ & (418.69) & (408.33) & (491.9) \\
+ \midrule
+ \vspace{3pt}
+ Observations & 14420 & 12860 & 1560 \\
+\hline\hline
+\end{tabular}
+\end{table}
+
+
+
+% TABLE 2 ---------------------
+
+\begin{table}[htbp]
+\centering 
+\caption{Table 2}
+\begin{tabular}{lccccccc} 
+\toprule
+ & (1) & (2) & (3) & (4) & (5) & (6) & (7) \\
+\cmidrule(lr){2-8}
+\textbf{VARIABLES} & FTE faculty & Costs & In-state tuition & Cohort size & \% URM & \% white & \% female \\
+\midrule
+Semester & 0.398 & 5.004 & 382.620*** & -38.346 & -0.009 & 0.007 & -0.002 \\
+ & (6.631) & (8.698) & (119.936) & (43.110) & (0.008) & (0.008) & (0.004) \\
+\midrule
+Observations & 14,420 & 14,420 & 14,420 & 14,420 & 14,420 & 14,420 & 14,420 \\
+ R-squared & 0.988 & 0.990 & 0.996 & 0.987 & 0.967 & 0.971 & 0.918 \\ 
+\midrule
+\multicolumn{8}{c}{Robust standard errors in parentheses} \\
+\multicolumn{8}{c}{*** p$<$0.01, ** p$<$0.05, * p$<$0.1} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% TABLE 3A PANEL A -----------------
+
+\begin{table}[htbp]
+\centering 
+\caption{Table 3a panel a - 4-year graduation rates}
+\begin{tabular}{lcccccccccc}
+\toprule
+ & (1) & (2) & (3) & (4) \\
+\cmidrule(lr){2-5}
+\textbf{VARIABLES} & All & All & All & All \\
+\midrule
+Partially treated & -0.002 & -0.014 & -0.023*** & -0.026*** \\
+ & (0.019) & (0.010) & (0.009) & (0.009) \\
+Fully treated & -0.008 & -0.016 & -0.035*** & -0.037*** \\
+ & (0.021) & (0.017) & (0.012) & (0.012) \\
+\midrule
+Observations & 14,420 & 14,420 & 14,420 & 14,420 \\
+R-squared & 0.956 & 0.961 & 0.980 & 0.980  \\
+\midrule
+School FE & Yes & Yes & Yes & Yes \\
+Year FE & Yes & Yes & Yes & Yes \\
+Controls & No & Yes & No & Yes  \\
+ Time Trends & No & No & Yes & Yes \\ 
+\midrule
+\multicolumn{5}{c}{Robust standard errors in parentheses} \\
+\multicolumn{5}{c}{*** p$<$0.01, ** p$<$0.05, * p$<$0.1} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% TABLE 3A PANEL B ----------------
+
+\begin{table}[htbp]
+\centering
+\caption{Table 3a panel b - 6-year graduation rates}
+\begin{tabular}{lcccccccccc}
+\toprule
+ & (1) & (2) & (3) & (4) \\
+\cmidrule(lr){2-5}
+\textbf{VARIABLES} & All & All & All & All \\
+\midrule
+Partially treated & 0.010 & 0.002 & -0.011 & -0.012 \\
+ & (0.020) & (0.014) & (0.008) & (0.008) \\
+Fully treated & 0.025 & 0.017 & -0.010 & -0.011 \\
+ & (0.019) & (0.015) & (0.011) & (0.010) \\
+\midrule
+Observations & 14,420 & 14,420 & 14,420 & 14,420  \\
+R-squared & 0.952 & 0.957 & 0.978 & 0.978  \\
+\midrule
+School FE & Yes & Yes & Yes & Yes\\
+Year FE & Yes & Yes & Yes & Yes  \\
+Controls & No & Yes & No & Yes  \\
+ Time Trends & No & No & Yes & Yes  \\ 
+\midrule
+\multicolumn{5}{c}{Robust standard errors in parentheses} \\
+\multicolumn{5}{c}{*** p$<$0.01, ** p$<$0.05, * p$<$0.1} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% TABLE 3B PANEL A
+
+\begin{table}[htbp]
+\centering
+\caption{Table 3b panel a}
+\begin{tabular}{lcccccccccc}
+\toprule
+ & (5) & (6) & (7) & (8) & (9) & (10) \\
+\cmidrule(lr){2-7}
+\textbf{VARIABLES} & \multicolumn{6}{c}{\textbf{Outcomes}} \\
+\cmidrule(lr){2-7}
+ & Women & Men & URM & Non-URM & Public & Private \\
+\midrule
+Partially treated & -0.026** & -0.027*** & -0.025** & -0.026** & -0.025** & -0.012 \\
+ & (0.011) & (0.008) & (0.011) & (0.010) & (0.011) & (0.013) \\
+Fully treated & -0.037*** & -0.038*** & -0.030* & -0.038*** & -0.033** & -0.032* \\
+ & (0.014) & (0.012) & (0.018) & (0.013) & (0.014) & (0.018) \\
+\midrule
+Observations & \multicolumn{2}{c}{14,395} & \multicolumn{2}{c}{14,353} & \multicolumn{2}{c}{14,414} \\
+R-squared & \multicolumn{2}{c}{0.975} & \multicolumn{2}{c}{0.975} & \multicolumn{2}{c}{0.945} \\
+\midrule
+School FE & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} \\
+Year FE & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} \\
+Controls & \multicolumn{2}{c}{No} & \multicolumn{2}{c}{No} & \multicolumn{2}{c}{No} \\
+Time Trends & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize Robust standard errors in parentheses. *** $p<0.01$, ** $p<0.05$, * $p<0.1$.}
+\end{tabular}
+\end{table}
+
+% TABLE 3B PANEL B --------------------------
+
+\begin{table}[htbp]
+\centering
+\caption{Table 3b panel b}
+\begin{tabular}{lcccccccccc}
+\toprule
+ & (5) & (6) & (7) & (8) & (9) & (10) \\
+\cmidrule(lr){2-7}
+\textbf{VARIABLES} & \multicolumn{6}{c}{\textbf{Outcomes}} \\
+\cmidrule(lr){2-7}
+ & Women & Men & URM & Non-URM & Public & Private \\
+\midrule
+Partially treated & -0.012 & -0.011 & -0.020 & -0.008 & -0.012 & -0.010 \\
+ & (0.010) & (0.008) & (0.014) & (0.009) & (0.009) & (0.007) \\
+Fully treated & -0.013 & -0.006 & -0.025 & -0.009 & -0.009 & -0.017 \\
+ & (0.012) & (0.011) & (0.018) & (0.013) & (0.012) & (0.011) \\
+\midrule
+Observations & \multicolumn{2}{c}{14,395} & \multicolumn{2}{c}{14,353} & \multicolumn{2}{c}{14,414} \\
+R-squared & \multicolumn{2}{c}{0.970} & \multicolumn{2}{c}{0.970} & \multicolumn{2}{c}{0.924} \\
+\midrule
+School FE & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} \\
+Year FE & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} \\
+Controls & \multicolumn{2}{c}{No} & \multicolumn{2}{c}{No} & \multicolumn{2}{c}{No} \\
+Time Trends & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} & \multicolumn{2}{c}{Yes} \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize Robust standard errors in parentheses. *** $p<0.01$, ** $p<0.05$, * $p<0.1$.}
+\end{tabular}
+\end{table}
+
+
+\end{document}
+
+
+
+
+
