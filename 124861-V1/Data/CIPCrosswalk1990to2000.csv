@@ -1,0 +1,471 @@
+CIP 1990,CIP 2000,Level,CIP 2000 Title
+10501,10105,Subject Codes Valid at Level G,Agricultural/Farm Supplies Retailing and Wholesaling
+10501,10105,Subject Codes Valid at Level T,Agricultural/Farm Supplies Retailing and Wholesaling
+19999,,Subject Codes Valid at Level B,Deleted
+19999,,Subject Codes Valid at Level G,Deleted
+19999,,Subject Codes Valid at Level T,Deleted
+20101,10000,Subject Codes Valid at Level B,"Agriculture, General"
+20101,10000,Subject Codes Valid at Level G,"Agriculture, General"
+20101,10000,Subject Codes Valid at Level T,"Agriculture, General"
+20102,10801,Subject Codes Valid at Level B,Agricultural and Extension Education Services
+20102,10801,Subject Codes Valid at Level G,Agricultural and Extension Education Services
+20102,10801,Subject Codes Valid at Level T,Agricultural and Extension Education Services
+20201,10901,Subject Codes Valid at Level B,"Animal Sciences, General"
+20201,10901,Subject Codes Valid at Level G,"Animal Sciences, General"
+20201,10901,Subject Codes Valid at Level T,"Animal Sciences, General"
+20202,10902,Subject Codes Valid at Level B,Agricultural Animal Breeding
+20202,10902,Subject Codes Valid at Level G,Agricultural Animal Breeding
+20202,10902,Subject Codes Valid at Level T,Agricultural Animal Breeding
+20203,10903,Subject Codes Valid at Level B,Animal Health
+20203,10903,Subject Codes Valid at Level G,Animal Health
+20203,10903,Subject Codes Valid at Level T,Animal Health
+20204,10904,Subject Codes Valid at Level B,Animal Nutrition
+20204,10904,Subject Codes Valid at Level G,Animal Nutrition
+20204,10904,Subject Codes Valid at Level T,Animal Nutrition
+20205,260706,Subject Codes Valid at Level B,Animal Physiology
+20205,260706,Subject Codes Valid at Level G,Animal Physiology
+20205,260706,Subject Codes Valid at Level T,Animal Physiology
+20206,10905,Subject Codes Valid at Level B,Dairy Science
+20206,10905,Subject Codes Valid at Level G,Dairy Science
+20206,10905,Subject Codes Valid at Level T,Dairy Science
+20209,10907,Subject Codes Valid at Level B,Poultry Science
+20209,10907,Subject Codes Valid at Level G,Poultry Science
+20209,10907,Subject Codes Valid at Level T,Poultry Science
+20299,10999,Subject Codes Valid at Level B,"Animal Sciences, Other"
+20299,10999,Subject Codes Valid at Level G,"Animal Sciences, Other"
+20299,10999,Subject Codes Valid at Level T,"Animal Sciences, Other"
+20301,11001,Subject Codes Valid at Level B,Food Science
+20301,11001,Subject Codes Valid at Level G,Food Science
+20301,11001,Subject Codes Valid at Level T,Food Science
+20401,11101,Subject Codes Valid at Level B,"Plant Sciences, General"
+20401,11101,Subject Codes Valid at Level G,"Plant Sciences, General"
+20401,11101,Subject Codes Valid at Level T,"Plant Sciences, General"
+20402,11102,Subject Codes Valid at Level B,Agronomy and Crop Science
+20402,11102,Subject Codes Valid at Level G,Agronomy and Crop Science
+20402,11102,Subject Codes Valid at Level T,Agronomy and Crop Science
+20403,11103,Subject Codes Valid at Level B,Horticultural Science
+20403,11103,Subject Codes Valid at Level G,Horticultural Science
+20403,11103,Subject Codes Valid at Level T,Horticultural Science
+20405,11104,Subject Codes Valid at Level B,Agricultural and Horticultural Plant Breeding??ÿ(NEW)
+20405,11104,Subject Codes Valid at Level G,Agricultural and Horticultural Plant Breeding??ÿ(NEW)
+20405,11104,Subject Codes Valid at Level T,Agricultural and Horticultural Plant Breeding??ÿ(NEW)
+20406,260305,Subject Codes Valid at Level B,Plant Pathology/Phytopathology
+20406,260305,Subject Codes Valid at Level G,Plant Pathology/Phytopathology
+20406,260305,Subject Codes Valid at Level T,Plant Pathology/Phytopathology
+20407,260307,Subject Codes Valid at Level B,Plant Physiology
+20407,260307,Subject Codes Valid at Level G,Plant Physiology
+20407,260307,Subject Codes Valid at Level T,Plant Physiology
+20408,11105,Subject Codes Valid at Level B,Plant Protection & Integrated Pest Management
+20408,11105,Subject Codes Valid at Level G,Plant Protection & Integrated Pest Management
+20408,11105,Subject Codes Valid at Level T,Plant Protection & Integrated Pest Management
+20409,11106,Subject Codes Valid at Level B,Range Science and Management
+20409,11106,Subject Codes Valid at Level G,Range Science and Management
+20409,11106,Subject Codes Valid at Level T,Range Science and Management
+20499,11199,Subject Codes Valid at Level B,"Plant Sciences, Other"
+20499,11199,Subject Codes Valid at Level G,"Plant Sciences, Other"
+20499,11199,Subject Codes Valid at Level T,"Plant Sciences, Other"
+20501,11201,Transfer Module Courses,"Soil Science and Agronomy, General"
+20501,11201,Subject Codes Valid at Level B,"Soil Science and Agronomy, General"
+20501,11201,Subject Codes Valid at Level G,"Soil Science and Agronomy, General"
+20501,11201,Subject Codes Valid at Level T,"Soil Science and Agronomy, General"
+29999,19999,Transfer Module Courses,"Agriculture, Agriculture Operations and Related Sciences, Other"
+29999,19999,Subject Codes Valid at Level B,"Agriculture, Agriculture Operations and Related Sciences, Other"
+29999,19999,Subject Codes Valid at Level G,"Agriculture, Agriculture Operations and Related Sciences, Other"
+29999,19999,Subject Codes Valid at Level T,"Agriculture, Agriculture Operations and Related Sciences, Other"
+30102,30103,Transfer Module Courses,Environmental Studies?ÿ(NEW)
+30102,30103,Subject Codes Valid at Level B,Environmental Studies?ÿ(NEW)
+30102,30103,Subject Codes Valid at Level G,Environmental Studies?ÿ(NEW)
+30102,30103,Subject Codes Valid at Level T,Environmental Studies?ÿ(NEW)
+30203,30299,Subject Codes Valid at Level B,Natural Resources Management/Development
+30203,30299,Subject Codes Valid at Level G,Natural Resources Management/Development
+30203,30299,Subject Codes Valid at Level T,Natural Resources Management/Development
+30401,30511,Subject Codes Valid at Level G,Forestry Technology/Technician?ÿ(NEW)
+30401,30511,Subject Codes Valid at Level T,Forestry Technology/Technician?ÿ(NEW)
+30404,30511,Subject Codes Valid at Level G,Forestry Technology/Technician??ÿ(NEW)
+30404,30511,Subject Codes Valid at Level T,Forestry Technology/Technician??ÿ(NEW)
+30405,30599,Subject Codes Valid at Level G,"Forestry, Other"
+30405,30599,Subject Codes Valid at Level T,"Forestry, Other"
+30499,30599,Subject Codes Valid at Level G,"Forestry, Other"
+30499,30599,Subject Codes Valid at Level T,"Forestry, Other"
+40701,40301,Subject Codes Valid at Level B,"City/Urban, Community and Regional Planning"
+50204,380205,Transfer Module Courses,Islamic Studies
+50204,380205,Subject Codes Valid at Level B,Islamic Studies
+50204,380205,Subject Codes Valid at Level G,Islamic Studies
+50205,380206,Transfer Module Courses,Jewish/ Judaic Studies
+50205,380206,Subject Codes Valid at Level B,Jewish/ Judaic Studies
+50205,380206,Subject Codes Valid at Level G,Jewish/ Judaic Studies
+80101,521904,Subject Codes Valid at Level B,Apparel and Accessories Marketing Operations
+80101,521904,Subject Codes Valid at Level G,Apparel and Accessories Marketing Operations
+80101,521904,Subject Codes Valid at Level T,Apparel and Accessories Marketing Operations
+80102,521902,Subject Codes Valid at Level B,Fashion Merchandising
+80102,521902,Subject Codes Valid at Level G,Fashion Merchandising
+80102,521902,Subject Codes Valid at Level T,Fashion Merchandising
+80199,,Subject Codes Valid at Level B,Deleted
+80199,,Subject Codes Valid at Level G,Deleted
+80199,,Subject Codes Valid at Level T,Deleted
+80204,521908,Subject Codes Valid at Level G,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+80204,521908,Subject Codes Valid at Level T,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+80205,521908,Subject Codes Valid at Level G,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+80205,521908,Subject Codes Valid at Level T,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+80299,,Subject Codes Valid at Level G,Deleted
+80299,,Subject Codes Valid at Level T,Deleted
+80301,521801,Subject Codes Valid at Level G,"Sales, Distribution and Marketing Operations, General"
+80301,521801,Subject Codes Valid at Level T,"Sales, Distribution and Marketing Operations, General"
+80401,521908,Subject Codes Valid at Level G,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+80401,521908,Subject Codes Valid at Level T,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+80503,521909,Subject Codes Valid at Level G,Special Products Marketing Operations?ÿ(NEW)
+80503,521909,Subject Codes Valid at Level T,Special Products Marketing Operations?ÿ(NEW)
+80601,521909,Subject Codes Valid at Level G,Special Products Marketing Operations?ÿ(NEW)
+80601,521909,Subject Codes Valid at Level T,Special Products Marketing Operations?ÿ(NEW)
+80704,521802,Subject Codes Valid at Level G,Merchandising and Buying Operations
+80704,521802,Subject Codes Valid at Level T,Merchandising and Buying Operations
+80705,521803,Subject Codes Valid at Level G,Retailing and Retail Operations
+80705,521803,Subject Codes Valid at Level T,Retailing and Retail Operations
+80706,521804,Subject Codes Valid at Level G,Selling Skills and Sales Operations
+80706,521804,Subject Codes Valid at Level T,Selling Skills and Sales Operations
+80708,521801,Subject Codes Valid at Level G,"Sales, Distribution and Marketing Operations, General"
+80708,521801,Subject Codes Valid at Level T,"Sales, Distribution and Marketing Operations, General"
+80709,521801,Subject Codes Valid at Level G,"Sales, Distribution and Marketing Operations, General"
+80709,521801,Subject Codes Valid at Level T,"Sales, Distribution and Marketing Operations, General"
+80799,521899,Subject Codes Valid at Level G,"General Sales, Merchandising and Related Marketing Operations,??ÿOther"
+80799,521899,Subject Codes Valid at Level T,"General Sales, Merchandising and Related Marketing Operations,??ÿOther"
+80809,521909,Subject Codes Valid at Level G,Special Products Marketing Operations?ÿ(NEW)
+80809,521909,Subject Codes Valid at Level T,Special Products Marketing Operations?ÿ(NEW)
+80810,521909,Subject Codes Valid at Level G,Special Products Marketing Operations?ÿ(NEW)
+80810,521909,Subject Codes Valid at Level T,Special Products Marketing Operations?ÿ(NEW)
+80899,,Subject Codes Valid at Level G,Deleted
+80899,,Subject Codes Valid at Level T,Deleted
+80901,521910,Subject Codes Valid at Level G,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80901,521910,Subject Codes Valid at Level T,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80902,521910,Subject Codes Valid at Level G,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80902,521910,Subject Codes Valid at Level T,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80903,521910,Subject Codes Valid at Level G,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80903,521910,Subject Codes Valid at Level T,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80906,521910,Subject Codes Valid at Level G,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80906,521910,Subject Codes Valid at Level T,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80999,521910,Subject Codes Valid at Level G,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+80999,521910,Subject Codes Valid at Level T,Hospitality and Recreation Marketing Operations??ÿ(NEW)
+81001,521908,Subject Codes Valid at Level G,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+81001,521908,Subject Codes Valid at Level T,Business and Personal/Financial Services Marketing Operations?ÿ(NEW)
+81104,521906,Subject Codes Valid at Level G,Tourism Promotion Operations
+81104,521906,Subject Codes Valid at Level T,Tourism Promotion Operations
+81105,521905,Subject Codes Valid at Level G,Tourism and Travel Services Marketing Operations
+81105,521905,Subject Codes Valid at Level T,Tourism and Travel Services Marketing Operations
+81199,521905,Subject Codes Valid at Level G,Tourism and Travel Services Marketing Operations
+81199,521905,Subject Codes Valid at Level T,Tourism and Travel Services Marketing Operations
+81203,521907,Subject Codes Valid at Level G,Vehicle and Vehicle Parts and Accessories Marketing Operations?ÿ(NEW)
+81203,521907,Subject Codes Valid at Level T,Vehicle and Vehicle Parts and Accessories Marketing Operations?ÿ(NEW)
+81208,521907,Subject Codes Valid at Level G,Vehicle and Vehicle Parts and Accessories Marketing Operations??ÿ(NEW)
+81208,521907,Subject Codes Valid at Level T,Vehicle and Vehicle Parts and Accessories Marketing Operations??ÿ(NEW)
+81209,,Subject Codes Valid at Level G,Deleted
+81209,,Subject Codes Valid at Level T,Deleted
+81299,,Subject Codes Valid at Level G,Deleted
+81299,,Subject Codes Valid at Level T,Deleted
+81301,521909,Subject Codes Valid at Level G,Special Products Marketing?ÿOperations?ÿ(NEW)
+81301,521909,Subject Codes Valid at Level T,Special Products Marketing?ÿOperations?ÿ(NEW)
+89999,521899,Subject Codes Valid at Level G,"General Merchandising, Sales and Related Marketing Operations,?ÿOther"
+89999,521899,Subject Codes Valid at Level T,"General Merchandising, Sales and Related Marketing Operations,?ÿOther"
+90201,90903,Subject Codes Valid at Level B,Advertising
+90201,90903,Subject Codes Valid at Level G,Advertising
+90201,90903,Subject Codes Valid at Level T,Advertising
+90403,90102,Subject Codes Valid at Level B,Mass Communication/ Media Studies
+90403,90102,Subject Codes Valid at Level G,Mass Communication/ Media Studies
+90403,90102,Subject Codes Valid at Level T,Mass Communication/ Media Studies
+90501,90902,Subject Codes Valid at Level B,Public Relations/Image Management???ÿ(NEW)
+90501,90902,Subject Codes Valid at Level G,Public Relations/Image Management???ÿ(NEW)
+90501,90902,Subject Codes Valid at Level T,Public Relations/Image Management???ÿ(NEW)
+100101,130501,Subject Codes Valid at Level G,Educational/Instructional Media Design
+100101,130501,Subject Codes Valid at Level T,Educational/Instructional Media Design
+100103,100201,Subject Codes Valid at Level G,Photographic?ÿand Film/ Video Technology/Technician and Assistant
+100103,100201,Subject Codes Valid at Level T,Photographic?ÿand Film/ Video Technology/Technician and Assistant
+100104,100202,Subject Codes Valid at Level G,Radio and Television Broadcasting Technology/Technician
+100104,100202,Subject Codes Valid at Level T,Radio and Television Broadcasting Technology/Technician
+100199,109999,Subject Codes Valid at Level G,"Communications Technologies/Technicians and Support Services, Other??ÿ(NEW)"
+100199,109999,Subject Codes Valid at Level T,"Communications Technologies/Technicians and Support Services, Other??ÿ(NEW)"
+120204,129999,Subject Codes Valid at Level B,"Personal and Culinary Services, Other"
+120204,129999,Subject Codes Valid at Level G,"Personal and Culinary Services, Other"
+120299,129999,Subject Codes Valid at Level B,"Personal and Culinary Services, Other"
+120299,129999,Subject Codes Valid at Level G,"Personal and Culinary Services, Other"
+130201,130201,Education Subject Codes Valid at Level B for Model Bac 1,Bilingual and Multilingual Education
+130405,130408,Education Subject Codes Valid at Level B for Model Bac 1,Elementary and Middle School Administration/Principalship??ÿ(NEW)
+130405,130408,Subject Codes Valid at Level B,Elementary and Middle School Administration/Principalship??ÿ(NEW)
+130802,421801,Education Subject Codes Valid at Level B for Model Bac 1,Educational Psychology
+130802,421801,Education Subject Codes Valid at Level G for Model GS1,Educational Psychology
+130802,421801,Subject Codes Valid at Level B,Educational Psychology
+130802,421801,Subject Codes Valid at Level G,Educational Psychology
+131204,131209,Education Subject Codes Valid at Level B for Model Bac 1,Kindergarten/Preschool Education and Teaching??ÿ(NEW)
+131204,131209,Education Subject Codes Valid at Level G for Model GS1,Kindergarten/Preschool Education and Teaching??ÿ(NEW)
+131204,131209,Subject Codes Valid at Level B,Kindergarten/Preschool Education and Teaching??ÿ(NEW)
+131204,131209,Subject Codes Valid at Level G,Kindergarten/Preschool Education and Teaching??ÿ(NEW)
+131204,131209,Subject Codes Valid at Level T,Kindergarten/Preschool Education and Teaching??ÿ(NEW)
+141501,143901,Subject Codes Valid at Level B,Geological/Geophysical Engineering?ÿ(NEW)
+141601,143901,Subject Codes Valid at Level B,Geological/Geophysical Engineering??ÿ(NEW)
+141701,143501,Subject Codes Valid at Level B,Industrial Engineering???ÿ(NEW)
+142901,149999,Subject Codes Valid at Level B,"Engineering, Other"
+142901,149999,Subject Codes Valid at Level G,"Engineering, Other"
+142901,149999,Subject Codes Valid at Level T,"Engineering, Other"
+143001,151501,Subject Codes Valid at Level B,Engineering/Industrial Management
+143001,151501,Subject Codes Valid at Level G,Engineering/Industrial Management
+143001,151501,Subject Codes Valid at Level T,Engineering/Industrial Management
+150301,151201,Subject Codes Valid at Level G,Computer Engineering Technology/ Technician
+150301,151201,Subject Codes Valid at Level T,Computer Engineering Technology/ Technician
+150402,151202,Subject Codes Valid at Level G,Computer Technology/Computer Systems Technology?ÿ(NEW)
+150402,151202,Subject Codes Valid at Level T,Computer Technology/Computer Systems Technology?ÿ(NEW)
+150603,150612,Subject Codes Valid at Level G,Industrial Technology/Technician (NEW)
+150603,150612,Subject Codes Valid at Level T,Industrial Technology/Technician (NEW)
+151101,150000,Subject Codes Valid at Level G,"Engineering Technology, General"
+151101,150000,Subject Codes Valid at Level T,"Engineering Technology, General"
+160403,160400,Transfer Module Courses,"Slavic Languages, Literatures, and Linguistics, General?ÿ(NEW)"
+160403,160400,Subject Codes Valid at Level B,"Slavic Languages, Literatures, and Linguistics, General?ÿ(NEW)"
+160403,160400,Subject Codes Valid at Level G,"Slavic Languages, Literatures, and Linguistics, General?ÿ(NEW)"
+160406,160406,Transfer Module Courses,Czech Language and Literature??ÿ(NEW)
+160703,160700,Transfer Module Courses,"South Asian Languages, Literatures, and Linguistics, General??ÿ(NEW)"
+160703,160700,Subject Codes Valid at Level B,"South Asian Languages, Literatures, and Linguistics, General??ÿ(NEW)"
+160703,160700,Subject Codes Valid at Level G,"South Asian Languages, Literatures, and Linguistics, General??ÿ(NEW)"
+161201,161200,Transfer Module Courses,"Classics and Languages, Literatures and Linguistics, General"
+161201,161200,Subject Codes Valid at Level B,"Classics and Languages, Literatures and Linguistics, General"
+161201,161200,Subject Codes Valid at Level G,"Classics and Languages, Literatures and Linguistics, General"
+190301,190707,Subject Codes Valid at Level B,Family and Community Services
+190301,190707,Subject Codes Valid at Level G,Family and Community Services
+190301,190707,Subject Codes Valid at Level T,Family and Community Services
+190502,190501,Transfer Module Courses,"Foods, Nutrition, and Wellness Studies, General"
+190502,190501,Subject Codes Valid at Level B,"Foods, Nutrition, and Wellness Studies, General"
+190502,190501,Subject Codes Valid at Level G,"Foods, Nutrition, and Wellness Studies, General"
+190502,190501,Subject Codes Valid at Level T,"Foods, Nutrition, and Wellness Studies, General"
+190503,513101,Subject Codes Valid at Level B,Dietetics/Dietitians
+190503,513101,Subject Codes Valid at Level G,Dietetics/Dietitians
+190503,513101,Subject Codes Valid at Level T,Dietetics/Dietitians
+190603,190601,Subject Codes Valid at Level B,"Housing and Human Environments, General"
+190603,190601,Subject Codes Valid at Level G,"Housing and Human Environments, General"
+190603,190601,Subject Codes Valid at Level T,"Housing and Human Environments, General"
+190703,511505,Subject Codes Valid at Level B,Marriage and Family Therapy/Counseling
+190703,511505,Subject Codes Valid at Level G,Marriage and Family Therapy/Counseling
+190703,511505,Subject Codes Valid at Level T,Marriage and Family Therapy/Counseling
+190705,190702,Subject Codes Valid at Level B,Adult Development and Aging??ÿ(NEW)
+190705,190702,Subject Codes Valid at Level G,Adult Development and Aging??ÿ(NEW)
+190705,190702,Subject Codes Valid at Level T,Adult Development and Aging??ÿ(NEW)
+200201,190708,Subject Codes Valid at Level G,Child Care and Support Services Management?ÿ(NEW)
+200201,190708,Subject Codes Valid at Level T,Child Care and Support Services Management?ÿ(NEW)
+200202,190709,Subject Codes Valid at Level G,Child Care Provider/Assistant
+200202,190709,Subject Codes Valid at Level T,Child Care Provider/Assistant
+200203,190708,Subject Codes Valid at Level G,Child Care and Support Services Management?ÿ(NEW)
+200203,190708,Subject Codes Valid at Level T,Child Care and Support Services Management?ÿ(NEW)
+200299,190799,Subject Codes Valid at Level G,"Human Development, Family Studies, and Related Services, Other"
+200299,190799,Subject Codes Valid at Level T,"Human Development, Family Studies, and Related Services, Other"
+220102,220001,Subject Codes Valid at Level B,Pre-Law Studies
+220102,220001,Subject Codes Valid at Level G,Pre-Law Studies
+220103,220302,Subject Codes Valid at Level G,Legal Assistant/Paralegal
+220103,220302,Subject Codes Valid at Level T,Legal Assistant/Paralegal
+220199,229999,Subject Codes Valid at Level B,"Legal?ÿProfessions and Studies, Other?ÿ(NEW)"
+220199,229999,Subject Codes Valid at Level G,"Legal?ÿProfessions and Studies, Other?ÿ(NEW)"
+220199,229999,Subject Codes Valid at Level T,"Legal?ÿProfessions and Studies, Other?ÿ(NEW)"
+230301,160104,Transfer Module Courses,Comparative Literature
+230301,160104,Subject Codes Valid at Level B,Comparative Literature
+230301,160104,Subject Codes Valid at Level G,Comparative Literature
+260402,260204,Transfer Module Courses,Molecular Biology
+260402,260204,Subject Codes Valid at Level B,Molecular Biology
+260402,260204,Subject Codes Valid at Level G,Molecular Biology
+260501,260503,Transfer Module Courses,Medical Microbiology and Bacteriology (NEW)
+260501,260503,Subject Codes Valid at Level B,Medical Microbiology and Bacteriology (NEW)
+260501,260503,Subject Codes Valid at Level G,Medical Microbiology and Bacteriology (NEW)
+260501,260503,Subject Codes Valid at Level T,Medical Microbiology and Bacteriology (NEW)
+260601,260403,Transfer Module Courses,Anatomy
+260601,260403,Subject Codes Valid at Level B,Anatomy
+260601,260403,Subject Codes Valid at Level G,Anatomy
+260601,260403,Subject Codes Valid at Level T,Anatomy
+260603,261301,Transfer Module Courses,Ecology
+260603,261301,Subject Codes Valid at Level B,Ecology
+260603,261301,Subject Codes Valid at Level G,Ecology
+260607,261302,Transfer Module Courses,Marine Biology and Biological Oceanography
+260607,261302,Subject Codes Valid at Level B,Marine Biology and Biological Oceanography
+260607,261302,Subject Codes Valid at Level G,Marine Biology and Biological Oceanography
+260608,302401,Subject Codes Valid at Level B,Neuroscience
+260608,302401,Subject Codes Valid at Level G,Neuroscience
+260609,301901,Transfer Module Courses,Nutrition Sciences
+260609,301901,Subject Codes Valid at Level B,Nutrition Sciences
+260609,301901,Subject Codes Valid at Level G,Nutrition Sciences
+260610,260505,Subject Codes Valid at Level B,Parasitology
+260611,260209,Subject Codes Valid at Level B,Radiation Biology/ Radiobiology
+260611,260209,Subject Codes Valid at Level G,Radiation Biology/ Radiobiology
+260611,260209,Subject Codes Valid at Level T,Radiation Biology/ Radiobiology
+260612,261004,Subject Codes Valid at Level B,Toxicology
+260612,261004,Subject Codes Valid at Level G,Toxicology
+260613,260804,Transfer Module Courses,Animal Genetics (NEW)
+260613,260804,Subject Codes Valid at Level B,Animal Genetics (NEW)
+260613,260804,Subject Codes Valid at Level G,Animal Genetics (NEW)
+260614,261101,Subject Codes Valid at Level B,Biometry/ Biometrics
+260614,261101,Subject Codes Valid at Level G,Biometry/ Biometrics
+260614,261101,Subject Codes Valid at Level T,Biometry/ Biometrics
+260615,261102,Subject Codes Valid at Level B,Biostatistics
+260615,261102,Subject Codes Valid at Level G,Biostatistics
+260616,261201,Subject Codes Valid at Level B,Biotechnology
+260616,261201,Subject Codes Valid at Level G,Biotechnology
+260617,261303,Subject Codes Valid at Level B,Evolutionary Biology
+260618,260507,Subject Codes Valid at Level B,Immunology
+260618,260507,Subject Codes Valid at Level G,Immunology
+260618,260507,Subject Codes Valid at Level T,Immunology
+260619,260504,Subject Codes Valid at Level B,Virology
+260699,,Subject Codes Valid at Level B,Deleted
+260704,260910,Transfer Module Courses,Pathology/Experimental Pathology (NEW)
+260704,260910,Subject Codes Valid at Level B,Pathology/Experimental Pathology (NEW)
+260704,260910,Subject Codes Valid at Level G,Pathology/Experimental Pathology (NEW)
+260705,261001,Subject Codes Valid at Level B,Pharmacology
+260705,261001,Subject Codes Valid at Level G,Pharmacology
+260705,261001,Subject Codes Valid at Level T,Pharmacology
+260706,260707,Transfer Module Courses,Animal Physiology
+260706,260707,Subject Codes Valid at Level B,Animal Physiology
+260706,260707,Subject Codes Valid at Level G,Animal Physiology
+270302,143701,Subject Codes Valid at Level B,Operations Research
+270302,143701,Subject Codes Valid at Level G,Operations Research
+310502,512309,Subject Codes Valid at Level B,Therapeutic Recreation/ Recreational Therapy
+310502,512309,Subject Codes Valid at Level G,Therapeutic Recreation/ Recreational Therapy
+310502,512309,Subject Codes Valid at Level T,Therapeutic Recreation/ Recreational Therapy
+310503,510913,Subject Codes Valid at Level B,Athletic Training/Trainer
+310503,510913,Subject Codes Valid at Level G,Athletic Training/Trainer
+310503,510913,Subject Codes Valid at Level T,Athletic Training/Trainer
+310506,310599,Subject Codes Valid at Level B,"Health and Physical Education/Fitness, Other"
+310506,310599,Subject Codes Valid at Level G,"Health and Physical Education/Fitness, Other"
+310506,310599,Subject Codes Valid at Level T,"Health and Physical Education/Fitness, Other"
+390101,161103,Transfer Module Courses,"Ancient?ÿNear Eastern and Biblical Languages, Literatures and Linguistics (NEW)"
+390101,161103,Subject Codes Valid at Level B,"Ancient?ÿNear Eastern and Biblical Languages, Literatures and Linguistics (NEW)"
+390101,161103,Subject Codes Valid at Level G,"Ancient?ÿNear Eastern and Biblical Languages, Literatures and Linguistics (NEW)"
+400301,400202,Subject Codes Valid at Level B,Astrophysics
+400505,512004,Subject Codes Valid at Level B,Medicinal and Pharmaceutical Chemistry
+400505,512004,Subject Codes Valid at Level G,Medicinal and Pharmaceutical Chemistry
+400701,409999,Subject Codes Valid at Level B,"Physical Sciences, Other"
+400701,409999,Subject Codes Valid at Level G,"Physical Sciences, Other"
+400702,400607,Transfer Module Courses,"Oceanography, Chemical and Physical"
+400702,400607,Subject Codes Valid at Level B,"Oceanography, Chemical and Physical"
+400702,400607,Subject Codes Valid at Level G,"Oceanography, Chemical and Physical"
+400703,400601,Transfer Module Courses,"Geology/Earth Science, General"
+400703,400601,Subject Codes Valid at Level B,"Geology/Earth Science, General"
+400703,400601,Subject Codes Valid at Level G,"Geology/Earth Science, General"
+400799,409999,Transfer Module Courses,"Physical Sciences, Other"
+400799,409999,Subject Codes Valid at Level B,"Physical Sciences, Other"
+400799,409999,Subject Codes Valid at Level G,"Physical Sciences, Other"
+450801,540101,Transfer Module Courses,"History, General"
+450801,540101,Subject Codes Valid at Level B,"History, General"
+450801,540101,Subject Codes Valid at Level G,"History, General"
+450802,540102,Transfer Module Courses,American HistoryÿUnited States
+450802,540102,Subject Codes Valid at Level B,American HistoryÿUnited States
+450802,540102,Subject Codes Valid at Level G,American HistoryÿUnited States
+450803,540103,Transfer Module Courses,European History
+450803,540103,Subject Codes Valid at Level B,European History
+450803,540103,Subject Codes Valid at Level G,European History
+450804,540104,Transfer Module Courses,History and Philosophy of Science/Technology
+450804,540104,Subject Codes Valid at Level B,History and Philosophy of Science/Technology
+450804,540104,Subject Codes Valid at Level G,History and Philosophy of Science/Technology
+450805,540105,Subject Codes Valid at Level B,Public/ Applied History and Archival Administration
+450805,540105,Subject Codes Valid at Level G,Public/ Applied History and Archival Administration
+450899,540199,Transfer Module Courses,"History, Other"
+450899,540199,Subject Codes Valid at Level B,"History, Other"
+450899,540199,Subject Codes Valid at Level G,"History, Other"
+480101,151301,Subject Codes Valid at Level B,"Drafting and Design Technology/Technician, General"
+480101,151301,Subject Codes Valid at Level G,"Drafting and Design Technology/Technician, General"
+480101,151301,Subject Codes Valid at Level T,"Drafting and Design Technology/Technician, General"
+480102,151303,Subject Codes Valid at Level B,Architectural Drafting and Architectural CAD/CADD
+480102,151303,Subject Codes Valid at Level G,Architectural Drafting and Architectural CAD/CADD
+480102,151303,Subject Codes Valid at Level T,Architectural Drafting and Architectural CAD/CADD
+480103,151304,Subject Codes Valid at Level B,Civil Drafting and Civil Engineering CAD/CADD
+480103,151304,Subject Codes Valid at Level G,Civil Drafting and Civil Engineering CAD/CADD
+480103,151304,Subject Codes Valid at Level T,Civil Drafting and Civil Engineering CAD/CADD
+480104,151305,Subject Codes Valid at Level B,Electrical/Electronics Drafting and Electrical/ Electronics CAD/CADD
+480104,151305,Subject Codes Valid at Level G,Electrical/Electronics Drafting and Electrical/ Electronics CAD/CADD
+480104,151305,Subject Codes Valid at Level T,Electrical/Electronics Drafting and Electrical/ Electronics CAD/CADD
+480105,151306,Subject Codes Valid at Level B,Mechanical Drafting and Mechanical Drafting CAD/CADD
+480105,151306,Subject Codes Valid at Level G,Mechanical Drafting and Mechanical Drafting CAD/CADD
+480105,151306,Subject Codes Valid at Level T,Mechanical Drafting and Mechanical Drafting CAD/CADD
+480199,151399,Subject Codes Valid at Level B,"Drafting/Design Engineering Technologies/Technicians, Other"
+480199,151399,Subject Codes Valid at Level G,"Drafting/Design Engineering Technologies/Technicians, Other"
+480199,151399,Subject Codes Valid at Level T,"Drafting/Design Engineering Technologies/Technicians, Other"
+480201,100305,Subject Codes Valid at Level G,"Graphic and Printing Equipment Operator, General Production"
+480201,100305,Subject Codes Valid at Level T,"Graphic and Printing Equipment Operator, General Production"
+480205,100399,Subject Codes Valid at Level G,"Graphic Communications, Other"
+480205,100399,Subject Codes Valid at Level T,"Graphic Communications, Other"
+480206,100306,Subject Codes Valid at Level G,Platemaker/Imager
+480206,100306,Subject Codes Valid at Level T,Platemaker/Imager
+480208,100307,Subject Codes Valid at Level G,Printing Press Operator
+480208,100307,Subject Codes Valid at Level T,Printing Press Operator
+480211,100308,Subject Codes Valid at Level G,Computer Typography and Composition Equipment Operator
+480211,100308,Subject Codes Valid at Level T,Computer Typography and Composition Equipment Operator
+480212,100303,Subject Codes Valid at Level G,Prepress/Desktop Publishing and Digital Imaging Design
+480212,100303,Subject Codes Valid at Level T,Prepress/Desktop Publishing and Digital Imaging Design
+480299,100399,Subject Codes Valid at Level G,"Graphic Communications, Other"
+480299,100399,Subject Codes Valid at Level T,"Graphic Communications, Other"
+490107,360119,Subject Codes Valid at Level B,Aircraft Pilot (Private)
+490107,360119,Subject Codes Valid at Level G,Aircraft Pilot (Private)
+490107,360119,Subject Codes Valid at Level T,Aircraft Pilot (Private)
+500503,500506,Subject Codes Valid at Level B,Acting?ÿ(NEW)
+500503,500506,Subject Codes Valid at Level G,Acting?ÿ(NEW)
+500503,500506,Subject Codes Valid at Level T,Actingÿ?(NEW)
+510205,161603,Subject Codes Valid at Level B,Sign Language Interpretation and Translation
+510205,161603,Subject Codes Valid at Level G,Sign Language Interpretation and Translation
+510205,161603,Subject Codes Valid at Level T,Sign Language Interpretation and Translation
+510301,511504,Subject Codes Valid at Level B,Community Health Services/Liaison/Counseling
+510301,511504,Subject Codes Valid at Level G,Community Health Services/Liaison/Counseling
+510301,511504,Subject Codes Valid at Level T,Community Health Services/Liaison/Counseling
+510804,511803,Subject Codes Valid at Level B,Ophthalmic Technician/Technologist
+510804,511803,Subject Codes Valid at Level G,Ophthalmic Technician/Technologist
+510804,511803,Subject Codes Valid at Level T,Ophthalmic Technician/Technologist
+510807,510912,Subject Codes Valid at Level B,Physician Assistant
+510807,510912,Subject Codes Valid at Level G,Physician Assistant
+510807,510912,Subject Codes Valid at Level T,Physician Assistant
+511301,260403,Subject Codes Valid at Level B,Anatomy
+511302,260202,Subject Codes Valid at Level B,Biochemistry
+511303,261101,Subject Codes Valid at Level B,Biometry/Biometrics
+511304,260203,Subject Codes Valid at Level B,Biophysics
+511305,260401,Subject Codes Valid at Level B,Cell/Cellular Biology and Histology
+511306,260806,Subject Codes Valid at Level B,Human/Medical Genetics
+511307,260507,Subject Codes Valid at Level B,Immunology
+511308,260503,Subject Codes Valid at Level B,Medical Microbiology and Bacteriology
+511309,260204,Subject Codes Valid at Level B,Molecular Biology
+511310,260906,Subject Codes Valid at Level B,Neurobiology and Neurophysiology
+511311,301901,Subject Codes Valid at Level B,Nutrition Sciences
+511312,260910,Subject Codes Valid at Level B,Pathology/Experimental Pathology
+511313,2609,Subject Codes Valid at Level B,"Series?ÿPhysiology, Pathology and Related Sciences"
+511314,261004,Subject Codes Valid at Level B,Toxicology
+511399,269999,Subject Codes Valid at Level B,"Biological and Biomedical Sciences, Other"
+511615,512602,Subject Codes Valid at Level G,Home Health Aide/Home Attendant
+511615,512602,Subject Codes Valid at Level T,Home Health Aide/Home Attendant
+512203,261309,Subject Codes Valid at Level B,Epidemiology
+512203,261309,Subject Codes Valid at Level G,Epidemiology
+512203,261309,Subject Codes Valid at Level T,Epidemiology
+512204,261102,Subject Codes Valid at Level B,Biostatistics
+512204,261102,Subject Codes Valid at Level G,Biostatistics
+512204,261102,Subject Codes Valid at Level T,Biostatistics
+512303,513603,Subject Codes Valid at Level B,Hypnotherapy/Hypnotherapist
+512303,513603,Subject Codes Valid at Level G,Hypnotherapy/Hypnotherapist
+512303,513603,Subject Codes Valid at Level T,Hypnotherapy/Hypnotherapist
+512304,513601,Subject Codes Valid at Level B,Movement Therapy and Movement Education
+512304,513601,Subject Codes Valid at Level G,Movement Therapy and Movement Education
+512304,513601,Subject Codes Valid at Level T,Movement Therapy and Movement Education
+512702,513101,Subject Codes Valid at Level B,Dietetics/ Dietitian (RD)
+512702,513101,Subject Codes Valid at Level G,Dietetics/ Dietitian (RD)
+512702,513101,Subject Codes Valid at Level T,Dietetics/ Dietitian (RD)
+512705,511507,Subject Codes Valid at Level B,Psychoanalysis and Psychotherapy
+520403,220301,Subject Codes Valid at Level G,Legal Administrative Assistant/Secretary
+520403,220301,Subject Codes Valid at Level T,Legal Administrative Assistant/Secretary
+520404,510716,Subject Codes Valid at Level G,Medical Administrative/Executive Assistant and Medical Secretary
+520404,510716,Subject Codes Valid at Level T,Medical Administrative/Executive Assistant and Medical Secretary
+520405,220303,Subject Codes Valid at Level G,Court Reporting/Court Reporter
+520405,220303,Subject Codes Valid at Level T,Court Reporting/Court Reporter
+520802,521304,Subject Codes Valid at Level B,Actuarial Science
+520802,521304,Subject Codes Valid at Level G,Actuarial Science
+520802,521304,Subject Codes Valid at Level T,Actuarial Science
+520805,521701,Subject Codes Valid at Level B,Insurance
+520805,521701,Subject Codes Valid at Level G,Insurance
+520805,521701,Subject Codes Valid at Level T,Insurance
+520902,520904,Subject Codes Valid at Level B,Hotel/Motel Administration/Management?ÿ(NEW)
+520902,520904,Subject Codes Valid at Level G,Hotel/Motel Administration/Management?ÿ(NEW)
+520902,520904,Subject Codes Valid at Level T,Hotel/Motel Administration/Management?ÿ(NEW)
+521202,110202,Subject Codes Valid at Level B,Computer Programming Special Applications?ÿ(NEW)
+521202,110202,Subject Codes Valid at Level G,Computer Programming Special Applications?ÿ(NEW)
+521202,110202,Subject Codes Valid at Level T,Computer Programming Special Applications?ÿ(NEW)
+521203,110501,Subject Codes Valid at Level B,Computer Systems Analyst/Analysis
+521203,110501,Subject Codes Valid at Level G,Computer Systems Analyst/Analysis
+521203,110501,Subject Codes Valid at Level T,Computer Systems Analyst/Analysis
+521204,110901,Subject Codes Valid at Level B,Computer Systems Networking and Telecommunications?ÿ(NEW)
+521204,110901,Subject Codes Valid at Level G,Computer Systems Networking and Telecommunications?ÿ(NEW)
+521204,110901,Subject Codes Valid at Level T,Computer Systems Networking and Telecommunications?ÿ(NEW)
+521205,111099,Subject Codes Valid at Level G,"Computer/Information Technology Services Administration and Management, Other??ÿ(NEW)"
+521205,111099,Subject Codes Valid at Level T,"Computer/Information Technology Services Administration and Management, Other??ÿ(NEW)"

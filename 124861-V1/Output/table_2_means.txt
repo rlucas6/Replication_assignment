@@ -1,0 +1,38 @@
+---------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\raines\Desktop\124861-V1/Output/table_2_m
+> eans.txt
+  log type:  text
+ opened on:  14 Feb 2024, 22:09:37
+
+. sum  faculty costs instatetuition totcohortsize per_urm per_w
+> hite per_fem
+
+    Variable |        Obs        Mean    Std. dev.       Min   
+>      Max
+-------------+-------------------------------------------------
+> --------
+     faculty |     14,420    345.5692    387.2125         18   
+>     3438
+       costs |     14,420    199.9477    418.6901          0   
+> 5988.427
+instatetui~n |     14,420     11424.9    9559.069          0   
+>    44220
+totcohorts~e |     14,420    1119.184    1200.569         18   
+>     8533
+     per_urm |     14,420    .2521669    .2322382          0   
+>        1
+-------------+-------------------------------------------------
+> --------
+   per_white |     14,420    .7046669    .2457175          0   
+>        1
+     per_fem |     14,420    .5602683    .0999017          0   
+>        1
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\raines\Desktop\124861-V1/Output/table_2_m
+> eans.txt
+  log type:  text
+ closed on:  14 Feb 2024, 22:09:37
+---------------------------------------------------------------
